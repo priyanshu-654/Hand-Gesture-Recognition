@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-HandGestureAI** is a real-time hand gesture recognition web application built using **Flask**, OpenCV, and MediaPipe. It detects hand gestures from webcam video, classifies them (e.g., ✋ Stop, 👊 Fist, 👍 Thumbs Up), and also displays which fingers are raised using traditional **Grantha Sanskrit** finger names.
+HandGestureAI is a real-time hand gesture recognition web application built using **Flask**, OpenCV, and MediaPipe. It detects hand gestures from webcam video, classifies them (e.g., ✋ Stop, 👊 Fist, 👍 Thumbs Up), and also displays which fingers are raised using traditional **Grantha Sanskrit** finger names.
 
 ## 🚀 Features
 
@@ -69,6 +69,10 @@ Open your browser and go to:
 👉 http://127.0.0.1:5000
 
 🎬 Demo Video
+
+
+
+https://github.com/user-attachments/assets/fe98481b-2ba2-47e8-9e87-485d764e306b
 
 
 
