@@ -27,6 +27,7 @@ HandGestureAI** is a real-time hand gesture recognition web application built us
 ![Screenshot 2025-07-10 144027](https://github.com/user-attachments/assets/fdb6125e-e93e-4abe-96ef-baa84123ee6e)
 
 🗂️ Folder Structure
+
 hand-gesture-recognition/
 │
 ├── app.py # Main Flask app
