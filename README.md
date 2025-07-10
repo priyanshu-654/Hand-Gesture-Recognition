@@ -56,12 +56,15 @@ opencv-python==4.5.5.64
 mediapipe==0.9.1
 
 🛠️ Setup Instructions
+
 Step 1: Clone the Repository
 git clone https://github.com/priyanshupandey/hand-gesture-recognition.git
 cd hand-gesture-recognition
-Step 2: Install Dependencies
+Step 2: 
+Install Dependencies
 pip install -r requirements.txt
-Step 3: Run the Flask App
+Step 3: 
+Run the Flask App
 python app.py
 
 View the App
