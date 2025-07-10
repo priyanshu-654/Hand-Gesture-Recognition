@@ -44,7 +44,6 @@ hand-gesture-recognition/
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project details
 
-
  Requirements
 
 Install the required dependencies with:
